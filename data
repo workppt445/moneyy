@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Agile Foundations & Values",
+    "description": "Learn the basics of Agile values and principles.",
+    "video_url": "https://www.youtube.com/watch?v=Z9QbYZh1YXY",
+    "sections": [
+      {
+        "type": "text",
+        "content": "The Agile Manifesto emphasizes individuals, collaboration, working software, and responding to change."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does Agile prioritize?",
+        "options": ["Processes", "Comprehensive documentation", "Individuals and interactions", "Contracts"],
+        "answer": "Individuals and interactions"
+      }
+    ],
+    "badge": "Values Virtuoso"
+  }
+]
